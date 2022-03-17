@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Erick Wachuma Kamoko {@Erick384}
 - 👀 I’m interested in making the world a better place.
 - 🌱 I’m currently learning Software Engineering at ALX SE platform.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on web development and security in information systems.
 - 📫 How to reach me 
 
 <!---
