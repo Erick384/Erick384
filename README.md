@@ -2,7 +2,7 @@
 - 👀 I’m interested in making the world a better place.
 - 🌱 I’m currently learning Software Engineering at ALX SE platform.
 - 💞️ I’m looking to collaborate on web development and security in information systems.
-- 📫 How to reach me whatsapp at +254702194452
+- 📫 Reach me whatsapp at +254702194452
 
 <!---
 Erick384/Erick384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
