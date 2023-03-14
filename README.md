@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 </center>
   
   <center align="centre">
-    <table>
+    <table align="centre">
       <tr>
          <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick384&show_icons=true&locale=en&layout=compact&theme=dark" /></td>
       </tr>
