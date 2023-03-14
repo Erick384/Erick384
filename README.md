@@ -33,11 +33,11 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick384&show_icons=true&locale=en&layout=compact" alt="Erick384" /></p>
 
+<!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Erick384&show_icons=true&locale=en" alt="Erick384" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erick384&" alt="Erick384" /></p>
-
 --->
+
 <center>
   <table>
   <tr>
