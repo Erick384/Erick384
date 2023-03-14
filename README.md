@@ -1,26 +1,25 @@
-- 👋 Hi, I’m Erick Wachuma Kamoko {@Erick384}
-- 👀 I’m interested in making the world a better place.
-- 🌱 I’m currently learning Software Engineering at ALX SE platform.
-- 💞️ I’m looking to collaborate on web development and security in software systems.
-- 📫 Reach me on whatsapp at +254702194452
-
 <!---
 Erick384/Erick384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Erick</h1>
+<h1 align="center">Hi 👋, I'm Erick{@Erick384} </h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
+<h3 align="centre"></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erick384" alt="Erick384" /></a> </p>
 
-- 🌱 I’m currently learning *Machine Learning*
+- 👀 I’m interested in making the world a better place.
 
-- 📫 How to reach me *erickwachuma@gmail.com*
+- 🌱 I’m currently learning *Machine Learning* *Software Engineering*
+
+- 📫 How to reach me *erickwachuma@gmail.com* *https://wa.me/702194452*
 
 - ⚡ Fun fact **
+
+- 💞️ I’m looking to collaborate on web development and security in software systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
