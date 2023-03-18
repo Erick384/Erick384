@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me *erickwachuma@gmail.com* and *https://wa.me/702194452*
 
-- ⚡ Fun fact **
+- ⚡ Fun fact *😂😂😂*
 
 - 💞️ I’m looking to collaborate on web development and security in software systems.
 
