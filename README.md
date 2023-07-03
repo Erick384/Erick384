@@ -40,10 +40,10 @@ You can click the Preview link to take a look at your changes.
   </table>
 </center>
   
-<!--   <center>
+   <center>
     <table>
       <tr>
          <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick384&show_icons=true&locale=en&layout=compact&theme=dark" /></td>
       </tr>
     </table>
-  </center> -->
+  </center>
