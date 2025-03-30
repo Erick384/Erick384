@@ -25,9 +25,9 @@
 ---
 
 ### 📌 Featured Projects
-🔹 [**SAP Financial Data Automation**](https://github.com/yourusername/sap-financial-automation) - Automating financial reporting in SAP with Python & ABAP  
-🔹 [**Business Analytics Dashboard**](https://github.com/yourusername/finance-dashboard) - Interactive dashboard for financial analysis  
-🔹 [**ERP Integration Toolkit**](https://github.com/yourusername/erp-integration) - Connects SAP with external platforms  
+🔹 [**SAP Financial Data Automation**](https://github.com/Erick384/sap-financial-automation) - Automating financial reporting in SAP with Python & ABAP  
+🔹 [**Business Analytics Dashboard**](https://github.com/Erick384/finance-dashboard) - Interactive dashboard for financial analysis  
+🔹 [**ERP Integration Toolkit**](https://github.com/Erick384/erp-integration) - Connects SAP with external platforms  
 
 📌 Check out more projects on my **[GitHub Repositories](https://github.com/Erick384?tab=repositories)**  
 
@@ -47,8 +47,8 @@
 ---
 
 ### 📬 Let's Connect
-💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/erick-wachuma-7a6036221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-🌐 [Portfolio](https://yourwebsite.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/erick-wachuma-7a6036221)  
+🌐 [Portfolio](https://github.com/Erick384)  
 📧 [Email](mailto:erickwachuma@gmail.com)  
 
 📢 Always open to **collaboration, networking, and new opportunities**!  
