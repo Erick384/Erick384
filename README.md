@@ -39,10 +39,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=erick384&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erick384&theme=radical" height="165" />
 </div>
-
-```![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erick384&theme=radical)  ```
-
----
+<!--
+# This is a comment
+# ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erick384&theme=radical)
+-->
 
 ---
 
