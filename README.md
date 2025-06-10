@@ -48,7 +48,7 @@
 
 ### 📬 Let's Connect
 💼 [LinkedIn](https://www.linkedin.com/in/erick-wachuma-7a6036221)  
-🌐 [Portfolio](https://github.com/Erick384)  
+🌐 [Portfolio](https://erickwachuma.vercel.app)  
 📧 [Email](mailto:erickwachuma@gmail.com)  
 
 📢 Always open to **collaboration, networking, and new opportunities**!  
