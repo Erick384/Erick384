@@ -6,17 +6,14 @@ Welcome to my GitHub. I specialize in building scalable full-stack web applicati
 
 ## 🧩 Core Competencies
 
-### 💻 Full Stack Web Development
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** Java, Spring Boot, REST APIs
-- **Database:** MySQL, SQL
-- **Dev Tools:** Git, Postman, Docker (basic), Maven
+### 💼 Technical Skills
 
-### 🏢 SAP Business One
-- SAP B1 Implementation & Support (SQL-based)
-- Crystal Reports Layouts (Invoices, Delivery Notes, GRPO, etc.)
-- Stored Procedures & UDFs Integration
-- Inventory, Production, Financials, Sales & Purchasing Modules
+| 💻 Full Stack Web Development                                | 🏢 SAP Business One Implementation                             |
+|--------------------------------------------------------------|----------------------------------------------------------------|
+| **Frontend:** React, TypeScript, Tailwind CSS                | SAP B1 Implementation & Support (SQL-based)                   |
+| **Backend:** Java, Spring Boot, REST APIs                    | Crystal Reports Layouts (Invoices, Delivery Notes, GRPO, etc.) |
+| **Database:** MySQL, SQL                                     | Stored Procedures & UDFs Integration                          |
+| **Dev Tools:** Git, Postman, Docker (basic), Maven           | Inventory, Production, Financials, Sales & Purchasing Modules |
 
 ---
 
