@@ -2,7 +2,6 @@
 
 Welcome to my GitHub. I specialize in building scalable full-stack web applications and implementing end-to-end ERP solutions with SAP Business One. I bring together technical software development, ERP customization, and business process automation.
 
----
 
 ## 🧩 Core Competencies
 
@@ -15,7 +14,6 @@ Welcome to my GitHub. I specialize in building scalable full-stack web applicati
 | **Database:** MySQL, SQL                                     | Stored Procedures & UDFs Integration                          |
 | **Dev Tools:** Git, Postman, Docker (basic), Maven           | Inventory, Production, Financials, Sales & Purchasing Modules |
 
----
 
 ## 🧠 Learning & Growth Focus
 
@@ -25,7 +23,6 @@ Welcome to my GitHub. I specialize in building scalable full-stack web applicati
 - **Finance:** Practical application of accounting & reporting in SAP
 - **CI/CD & DevOps:** Gradually implementing GitHub Actions, Docker, pipelines
 
----
 
 ## 📈 Career Goals
 
@@ -35,7 +32,12 @@ Welcome to my GitHub. I specialize in building scalable full-stack web applicati
 - 🔐 Upskill in cybersecurity and infrastructure
 - 💼 Bridge the gap between business and tech with full ERP + dev stack
 
----
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Erick384&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erick384&theme=tokyonight&hide_border=true" />
+</div>
 
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-wachuma-7a6036221)
@@ -43,15 +45,6 @@ Welcome to my GitHub. I specialize in building scalable full-stack web applicati
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickwachuma@gmail.com)
 
 > "Building systems that connect code, business, and people."
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Erick384&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erick384&theme=tokyonight&hide_border=true" />
-</div>
-
-
 
 
 
