@@ -48,11 +48,16 @@ Welcome to my GitHub. I specialize in building scalable full-stack web applicati
 > "Building systems that connect code, business, and people."
 
 ## 📊 GitHub Analytics
-
-<div align="center" style="display: flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick384&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Erick384&theme=tokyonight&hide_border=true" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=erickwachuma&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=erickwachuma&theme=github_dark" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 
 
