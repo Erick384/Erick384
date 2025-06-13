@@ -49,7 +49,7 @@ Welcome to my GitHub. I specialize in building scalable full-stack web applicati
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick384&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Erick384&theme=tokyonight&hide_border=true" />
 </div>
